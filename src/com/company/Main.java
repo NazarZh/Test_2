@@ -7,6 +7,11 @@ public class Main {
             System.out.println("Hello");
             System.out.println("!");
 
-        }//dfffffd
+        }
+        int a = 15;
+        int b = 10;
+        if (a>b){
+            System.out.println("a>b");//dfffffd
+        }
     }
 }
